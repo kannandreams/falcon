@@ -1,0 +1,19 @@
+---
+framework_version: 1.0
+project: "Revolut challenge"
+run_environment: local
+dataset:
+  input_dir: '/data/'
+  interim_dir: 'data/interim'
+  train_file: 'train.csv'
+  test_file: 'test.csv'
+labels: ['engaged']
+seed: 42
+output:
+  log: '../log/'
+  metrics: '../output/metrics/'
+    
+
+
+
+  
