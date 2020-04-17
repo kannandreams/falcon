@@ -1,3 +1,5 @@
+![Image description](https://github.com/kannandreams/hadeda/blob/master/hadeda.png)
+
 # hadeda
 
 Developer toolkit for Data scientist and ML Engineers.
