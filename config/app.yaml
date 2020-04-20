@@ -1,6 +1,6 @@
 ---
 framework_version: 1.0
-project: "Revolut challenge"
+project: "challenge"
 run_environment: local
 dataset:
   input_dir: '/data/'
