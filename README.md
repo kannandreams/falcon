@@ -1,6 +1,4 @@
-![Image description](https://github.com/kannandreams/hadeda/blob/master/hadeda.png)
-
-# hadeda
+# falcon
 
 Developer toolkit for Data scientist and ML Engineers.
 Build end to end ML framework for any kind of machine learning tasks.
